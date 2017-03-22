@@ -8,18 +8,19 @@ You can draw many more using this idea from A-Z.
 
 Thank you
 
-> Just comment / uncomment this lines 42,43 as per your requirement.
+
+            
+
+# Trapezium like Shape
+
+![screenshot_2017-03-22-16-56-35](https://cloud.githubusercontent.com/assets/13538306/24196912/8d954bd8-0f25-11e7-8a59-38fce97e71c2.png)
+
+# Just comment / uncomment this lines 42,43 as per your requirement.
 
 ```
               drawPointedPath(canvas, paint, 0, height/2, width);
 //            drawPathWithCurve(canvas, paint, 0, height/2, width);
 ```
-            
-
-# Trapezium like Shape
-
-![screenshot_2017-03-22-16-56-35](https://cloud.githubusercontent.com/assets/13538306/24196541/21ca6556-0f24-11e7-94ce-f0d3cb41856b.png)
-
 # Arc 
 
-![screenshot_2017-03-22-16-58-22](https://cloud.githubusercontent.com/assets/13538306/24196543/21ed26a4-0f24-11e7-94c0-331802551305.png)
+![screenshot_2017-03-22-16-58-22](https://cloud.githubusercontent.com/assets/13538306/24196915/929d4ee6-0f25-11e7-9101-5f59f8295295.png)
